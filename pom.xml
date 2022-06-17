@@ -16,7 +16,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <lucene.version>7.1.0</lucene.version>
         <jackson.version>2.12.1</jackson.version>
-        <fastjson.version>1.2.67</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <mybatis.version>3.5.7</mybatis.version>
         <spring.version>5.1.5.RELEASE</spring.version>
         <easypoi.version>4.3.0</easypoi.version>
